@@ -1,0 +1,21 @@
+li{
+     
+    display: inline;
+    padding: 15px;
+    margin: -1.99px;
+    background: grey;
+}
+
+.link1{
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.lista{
+
+    background: grey;
+    padding: 15px;
+    margin: -1.99px;
+}
